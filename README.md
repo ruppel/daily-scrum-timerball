@@ -68,7 +68,7 @@ There is the possibility to configure the timer from 1 minute up to the 10 minut
 
 Wiring is easy. Have a look at the picture.
 
-![ScrumTimer](images/ScrumTimer.jpeg)
+![ScrumTimer](images/ScrumTimer.jpg)
 
 - Note that only the first LED needs three cables from the nanite (GND, +5 and PB1). The other LEDs are connected in a row (+5 to +5, GND to GND, Data out to Data in).
 - The on/off switch connects the +5 from the batterie and the Vcc from the nanite. The bush button connects GND to PB0 from the nanite.
